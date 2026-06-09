@@ -99,7 +99,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhohannessf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/jhohannessf/jhohannessf/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jhohannessf/jhohannessf/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
