@@ -18,7 +18,15 @@
 
 ###
 
-<h1 align="center">Olá, seja bem vindo a minha página do Github! 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhohannessf/jhohannessf/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhohannessf/jhohannessf/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhohannessf/jhohannessf/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h1 align="center">Seja bem vindo a minha página do Github! 👋</h1>
 
 ###
 
@@ -26,34 +34,62 @@
 
 ###
 
-<p align="left">## Olá! 👋<br><br>Sou Johannes Freitas, bacharel em Sistemas de Informação e apaixonado por tecnologia. 🇧🇷<br><br>- 🔭 Em meu último work trabalhei com integração de sistemas via API, banco de dados e planilhas. Também atuava na automação de processos e outras integrações de APIs.<br>- 🐍 Tenho experiência com Python, SQL, APIs REST.<br>- 💡 Tenho interesse em Desenvolvimento Back-end e Engenharia de Software.<br>- 📚 Estou estudando Java, Programação Orientada a Objetos (POO), estruturas de dados e boas práticas de desenvolvimento.<br>- 🚀 Gosto de desenvolver projetos que me desafiem e contribuam para minha evolução profissional.<br>- ⚡ No meu tempo livre, estudo novas tecnologias, desenvolvo projetos pessoais e jogo alguma coisa.</p>
+<p align="left">## Olá! 👋<br><br>Sou Jhohannes Freitas, bacharel em Sistemas de Informação e apaixonado por tecnologia. 🇧🇷<br><br>- 🐍 Python, FastAPI e Postgres.<br>- 📚 Atualmente estou estudando Java, Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento.<br>- 🚀 Gosto de desenvolver projetos que me desafiem e contribuam para minha evolução profissional.<br>- ⚡ No meu tempo livre, estudo novas tecnologias, desenvolvo projetos pessoais e jogo alguma coisa.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
-<div align="left">
+<h4 align="center">Language and Framework</h4>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<h4 align="center">Database</h4>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h4 align="center">DevOps and Tools</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
