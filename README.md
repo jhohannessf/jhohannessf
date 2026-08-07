@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">## Olá! 👋<br><br>Sou Jhohannes Freitas, bacharel em Sistemas de Informação e apaixonado por tecnologia. 🇧🇷<br><br>- 🐍 Python, FastAPI e Postgres.<br>- 📚 Atualmente estou estudando Java e Spring.<br>- ⚡ No meu tempo livre, estudo novas tecnologias, desenvolvo projetos pessoais e jogo alguma coisa.</p>
+<p align="left">## Olá! 👋<br><br>Sou Jhohannes Freitas, bacharel em Sistemas de Informação e apaixonado por tecnologia. 🇧🇷<br>- 📚 Atualmente estou estudando Java e Framework Spring Boot.<br>- ⚡ No meu tempo livre, estudo novas tecnologias, desenvolvo projetos pessoais e jogo alguma coisa.</p>
 
 ###
 
